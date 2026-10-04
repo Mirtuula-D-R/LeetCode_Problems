@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0342-power-of-four) |
+| [0365-water-and-jug-problem](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0365-water-and-jug-problem) |
 | [0400-nth-digit](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0400-nth-digit) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/2235-add-two-integers) |
@@ -57,4 +58,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0002-add-two-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
