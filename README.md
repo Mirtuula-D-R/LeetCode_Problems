@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0342-power-of-four](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/2235-add-two-integers) |
