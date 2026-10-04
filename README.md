@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0342-power-of-four) |
 | [0400-nth-digit](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0400-nth-digit) |
