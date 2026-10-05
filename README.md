@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0344-reverse-string) |
 ## String
 |  |
