@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
