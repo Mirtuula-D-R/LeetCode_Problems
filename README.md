@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0365-water-and-jug-problem) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Mirtuula-D-R/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
